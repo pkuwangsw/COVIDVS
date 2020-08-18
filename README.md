@@ -1,5 +1,5 @@
 # COVIDVS
-Dataset and scripts for a COVID19-related Virtual Screening (COVIDVS) model. 
+Datasets for the COVID19-related Virtual Screening (COVIDVS) model. 
 
 ## Introduction
 This virtual screening model is a trained Chemprop model with anti-beta-coronavirus actives/inactives collected from published papers. 
