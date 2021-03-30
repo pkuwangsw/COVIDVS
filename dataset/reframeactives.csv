@@ -1,0 +1,18 @@
+name,smiles
+8-(3-Chlorostyryl)caffeine,Cn1c(=O)c2c(nc(C=Cc3cccc(Cl)c3)n2C)n(C)c1=O
+AMG-2674,CC1CN(c2ncc(C(O)CO)cc2Cl)CCN1c1nc2c(-c3cc(F)c(F)c(F)c3)cc(C(F)(F)F)cc2[nH]1
+Apilimod,Cc1cccc(C=NNc2cc(N3CCOCC3)nc(OCCc3ccccn3)n2)c1
+KW 8232,CN(C)CCn1c(C(=O)N2CCN(c3ccccc3Cl)CC2)c(C(c2ccc(O)cc2)c2ccc(O)cc2)c2ccccc21
+MDL-28170,CC(C)C(NC(=O)OCc1ccccc1)C(=O)NC(C=O)Cc1ccccc1
+MLN-3897,CC(C)(O)c1ccc2c(c1)C(=CCCN1CCC(O)(c3ccc(Cl)cc3)C(C)(C)C1)c1cccnc1CO2
+N-tert-Butylisoquine,CC(C)(C)NCc1ccc(Nc2ccnc3cc(Cl)ccc23)cc1O
+ONO 5334,CC1CSC(=NNC(=O)C(=O)C(NC(=O)C2CCCCCC2)C2CCOCC2)N1C
+SB-616234-A,COc1cc2c(cc1N1CC(C)NC(C)C1)N(C(=O)c1ccc(-c3ccc(-c4noc(C)n4)cc3C)cc1)CC2
+SDZ-62-434,C1=C(c2ccc(CN3CCCCC3)cc2)N2CCN=C2c2ccccc21
+SL-11128,CCNCC=CCNCCCCNCCCCNCC=CCNCC
+VBY-825,CCC(NC(=O)C(CS(=O)(=O)CC1CC1)NC(c1ccc(F)cc1)C(F)(F)F)C(=O)C(=O)NC1CC1
+YH-1238,COc1cccc2c(N3CCc4ccccc4C3C)nc(Nc3ccc(F)cc3C)nc12
+Z LVG CHN2,CC(C)CC(NC(=O)OCc1ccccc1)C(=O)NC(C(=O)NCC(=O)C=[N+]=[N-])C(C)C
+Elopiprazole,Fc1ccc(-c2ccc(CN3CCN(c4cccc5ccoc45)CC3)[nH]2)cc1
+R-82913,CC(C)=CCN1Cc2cc(Cl)cc3[nH]c(=S)n(c23)CC1C 
+DS-6930,Cc1cnc(Oc2ccc3nc(COc4cccc(C(=O)O)c4)n(C)c3c2)c(C)c1
